@@ -1,0 +1,33 @@
+/*
+seletor {
+    propriedade: valor;
+}
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: black;
+  color: aqua;
+  height: 60px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.primeiraSessao {
+  height: 1100px;
+  background-image: url("Vai Nos Games.jpg");
+  background-size: cover;
+  background-position: center;
+  color: rgb(102, 237, 241);
+  padding: 120px;
+}
+.primeiraSessao p {
+  width: 350px;
+  margin-top: 20px;
+  line-height: 20px;
+}/*# sourceMappingURL=style.css.map */
